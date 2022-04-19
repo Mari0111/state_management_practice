@@ -6,8 +6,8 @@ Color getNextColor(int currentIndex) {
 }
 
 final colorList = [
-  Colors.red,
-  Colors.blue,
+  Color.fromARGB(255, 255, 108, 98),
+  Color.fromARGB(255, 114, 192, 255),
   Colors.amber,
   Colors.purple,
   Colors.purple.shade100,
